@@ -10,7 +10,7 @@
 import axios from 'axios'
 export default {
   meta: {
-    auth: { authority: 0 }
+    auth: { authority: 2 }
   },
   data() {
     return {

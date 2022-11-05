@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'client',
+    title: 'Book Store',
     htmlAttrs: {
       lang: 'en',
     },
@@ -12,7 +12,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [
-      { rel: 'shortcut icon', href: '#' },
+      { rel: 'icon', type: 'image/x-icon', href: '/logo.png' },
       {
         rel: 'stylesheet',
         type: 'text/css',
